@@ -1,0 +1,19 @@
+Môn học: Nhập môn Thị giác Máy tính
+Giảng viên: TS. Lê Đình Duy & ThS. Nguyễn Vinh Tiệp
+
+Sinh viên: Nguyễn Đức Anh
+MSSV: 15520021
+Đồ án: Seam Carving
+Github Link: https://github.com/ducanhvina17/SeamCarving
+YouTube Link: https://youtu.be/bPbv4rD1FWs
+
+Hướng dẫn sử dụng:
+Bước 1: Chạy file GUI.py
+Bước 2: Chọn file ảnh cần xử lý
+Bước 3.1: Nếu muốn resize ảnh:
+	Đặt new width, new height
+	Click chọn button "resize ảnh"
+Bước 3.2: Nếu muốn remove Object:
+	Click chọn button "Chọn vật thể"
+	Vẽ hình chữ nhật lên vùng vật thể cần xóa 
+Bước 4: Click 'Mở ảnh gốc' Và 'Mở ảnh hoàn thành' để xem sự thay đổi trên ảnh
